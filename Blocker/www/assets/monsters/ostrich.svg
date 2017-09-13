@@ -1,0 +1,68 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="80px" height="80px" viewBox="0 0 80 80">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="-2.400000000000002" y1="38.1" x2="60.5" y2="38.1" spreadMethod="pad">
+<stop  offset="0%" stop-color="#6D5025"/>
+
+<stop  offset="100%" stop-color="#D9AA4F"/>
+</linearGradient>
+
+<linearGradient id="Gradient_2" gradientUnits="userSpaceOnUse" x1="48.225" y1="40" x2="48.275" y2="40" spreadMethod="pad">
+<stop  offset="0%" stop-color="#6D5025"/>
+
+<stop  offset="100%" stop-color="#D9AA4F"/>
+</linearGradient>
+
+<g id="Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 154.4 39.95
+L 131.85 17.4 134.85 14.4 128.45 8 118.55 17.9 113.4 12.75 86 40 113.4 67.4 118.6 62.15 128.45 72 134.95 65.55 131.85 62.5 154.4 39.95 Z"/>
+</g>
+
+<g id="Layer0_1_FILL">
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 54.85 14.4
+L 48.45 8 16.45 40 48.45 72 54.95 65.55 51.85 62.5 74.4 39.95 51.85 17.4 54.85 14.4
+M 48.3 40.05
+L 48.25 40 48.3 40 48.3 40.05 Z"/>
+
+<path fill="url(#Gradient_2)" stroke="none" d="
+M 48.25 40
+L 48.3 40.05 48.3 40 48.25 40 Z"/>
+</g>
+
+<g id="Layer0_1_MEMBER_0_FILL">
+<path fill="#DE8643" stroke="none" d="
+M 16.5 29.6
+L 6 40 16.5 50.55 26.95 40 16.5 29.6 Z"/>
+
+<path fill="#D9AA4F" stroke="none" d="
+M 33.4 12.75
+L 16.5 29.6 26.95 40 16.5 50.55 33.4 67.4 38.6 62.15 35.6 59.15 54.7 40 35.55 20.95 38.6 17.95 33.4 12.75
+M 29.85 26.85
+L 25.75 30.95 29.85 26.85
+M 25.75 48.25
+L 29.85 52.05 25.75 48.25 Z"/>
+</g>
+
+<path id="Layer0_1_MEMBER_0_1_STROKES" stroke="#514C46" stroke-width="1" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="3" fill="none" d="
+M 29.85 26.85
+L 25.75 30.95
+M 25.75 48.25
+L 29.85 52.05"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_1_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_1_MEMBER_0_FILL"/>
+
+<use xlink:href="#Layer0_1_MEMBER_0_1_STROKES"/>
+</g>
+</svg>

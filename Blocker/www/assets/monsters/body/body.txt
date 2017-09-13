@@ -1,0 +1,14 @@
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/monsters/body/bat.body.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/monsters/body/cactus.body.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/monsters/body/dragon.body.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/monsters/body/ostrich.body.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/monsters/body/reaper.body.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/monsters/body/scorpion.body.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/monsters/body/skeleton.body.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/monsters/body/wolf.body.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/monsters/body/yeti.body.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/monsters/body/zombie.body.A.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/monsters/body/zombie.body.B.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/monsters/body/zombie.body.C.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/monsters/body/zombie.body.D.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/monsters/body/zombie.body.svg

@@ -1,0 +1,62 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="960px" height="160px" viewBox="0 0 960 160">
+<defs>
+<g id="Layer2_1_FILL">
+<path fill="#D27941" stroke="none" d="
+M 101.4 77.9
+L 106.4 82.9 111.4 77.9 106.4 72.9 101.4 77.9
+M 261.4 77.9
+L 266.4 82.9 271.4 77.9 266.4 72.9 261.4 77.9
+M 421.35 77.9
+L 426.35 82.9 431.35 77.9 426.35 72.9 421.35 77.9
+M 581.4 77.9
+L 586.4 82.9 591.4 77.9 586.4 72.9 581.4 77.9 Z"/>
+</g>
+
+<path id="Layer2_0_1_STROKES" stroke="#B16C3F" stroke-width="3" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" fill="none" d="
+M 564 79.5
+L 566.45 88.55 570.25 92.35
+M 559.6 63
+L 564 79.5
+M 557.4 79.5
+L 566.45 88.55 568.65 96.85
+M 545.5 67.6
+L 557.4 79.5
+M 404.15 97.5
+L 404.15 79.5 404.15 62.5
+M 397.9 97.5
+L 397.9 79.5 397.9 62.5
+M 250.35 67.65
+L 246.45 71.6 244.3 79.5
+M 248.7 63.05
+L 246.45 71.6 238.5 79.5
+M 244.3 79.5
+L 239.65 96.9
+M 238.5 79.5
+L 225.6 92.4
+M 84.15 97.5
+L 84.15 79.5 84.15 62.5
+M 77.9 97.5
+L 77.9 79.5 77.9 62.5"/>
+
+<path id="Layer2_0_2_STROKES" stroke="#B16C3F" stroke-width="5" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" fill="none" d="
+M 582 79.5
+L 564 79.5 557.4 79.5 556.1 79.5
+M 421.95 79.5
+L 404.15 79.5 397.9 79.5 396.1 79.5
+M 262 79.5
+L 244.3 79.5 238.5 79.5 236.1 79.5
+M 102 79.5
+L 84.15 79.5 77.9 79.5 76.1 79.5"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer2_0_1_STROKES"/>
+
+<use xlink:href="#Layer2_0_2_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,1) ">
+<use xlink:href="#Layer2_1_FILL"/>
+</g>
+</svg>

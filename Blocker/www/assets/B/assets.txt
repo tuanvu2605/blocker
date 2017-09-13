@@ -1,0 +1,15 @@
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/B/model.bandit.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/B/model.basher.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/B/model.bomber.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/B/model.builder.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/B/model.doctor.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/B/model.druid.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/B/model.flag.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/B/model.mage.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/B/model.necromancer.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/B/model.ranger.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/B/model.scientist.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/B/model.shinobi.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/B/model.spikey.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/B/model.viking.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/B/model.warrior.png

@@ -1,0 +1,38 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="960px" height="160px" viewBox="0 0 960 160">
+<defs>
+<g id="wolf_tail_0_Layer0_0_FILL">
+<path fill="#AFA492" stroke="none" d="
+M 19.55 0
+L 21.75 4.8 17.9 8.3 21.55 11.9 19.55 16.6 27.85 8.3 19.55 0 Z"/>
+
+<path fill="#898E9A" stroke="none" d="
+M 19.55 0
+L 0 8.3 19.55 16.6 21.55 11.9 17.9 8.3 21.75 4.8 19.55 0 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 93.85,71.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#wolf_tail_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.965911865234375, 0.258819580078125, -0.258819580078125, 0.965911865234375, 256.05,71.95) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#wolf_tail_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 413.9,71.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#wolf_tail_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.965911865234375, -0.258819580078125, 0.258819580078125, 0.965911865234375, 571.75,71.95) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#wolf_tail_0_Layer0_0_FILL"/>
+</g>
+</g>
+</svg>

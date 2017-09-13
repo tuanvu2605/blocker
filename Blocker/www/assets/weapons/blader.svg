@@ -1,0 +1,154 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="960px" height="160px" viewBox="0 0 960 160">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="1.6999999999999993" y1="15.4" x2="17.7" y2="15.4" spreadMethod="pad">
+<stop  offset="0%" stop-color="#878791"/>
+
+<stop  offset="100%" stop-color="#6F7179"/>
+</linearGradient>
+
+<linearGradient id="Gradient_2" gradientUnits="userSpaceOnUse" x1="37.25" y1="15.45" x2="21.25" y2="15.45" spreadMethod="pad">
+<stop  offset="0%" stop-color="#878791"/>
+
+<stop  offset="100%" stop-color="#6F7179"/>
+</linearGradient>
+
+<g id="blade_0_Layer0_0_MEMBER_0_FILL">
+<path fill="#878791" stroke="none" d="
+M 1.7 19.5
+L 17.65 11.35 -3.55 11.35 1.7 19.5
+M 37.25 11.35
+L 21.3 19.5 42.5 19.5 37.25 11.35 Z"/>
+
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 17.7 19.5
+L 17.65 11.35 1.7 19.5 17.7 19.5 Z"/>
+
+<path fill="url(#Gradient_2)" stroke="none" d="
+M 21.3 19.5
+L 37.25 11.35 21.25 11.35 21.3 19.5 Z"/>
+</g>
+
+<g id="Layer2_3_FILL">
+<path fill="#5C6370" stroke="none" d="
+M 220.9 100.1
+L 227.2 106.6 233.75 100.25 227.45 93.75 220.9 100.1
+M 233.55 64.3
+L 235.8 55.55 227.05 53.1 224.65 61.95 233.55 64.3 Z"/>
+</g>
+
+<g id="Layer2_4_FILL">
+<path fill="#5C6370" stroke="none" d="
+M 381.9 100.1
+L 388.2 106.6 394.75 100.25 388.45 93.75 381.9 100.1
+M 383.1 64
+L 385.4 55.25 376.65 52.85 374.25 61.7 383.1 64 Z"/>
+</g>
+
+<g id="Layer2_5_FILL">
+<path fill="#5C6370" stroke="none" d="
+M 544.05 63.65
+L 544.55 54.6 535.5 54 534.9 63.15 544.05 63.65
+M 542.9 100.1
+L 549.2 106.6 555.75 100.25 549.45 93.75 542.9 100.1 Z"/>
+</g>
+
+<g id="Layer2_6_FILL">
+<path fill="#5C6370" stroke="none" d="
+M 703.9 100.1
+L 710.2 106.6 716.75 100.25 710.45 93.75 703.9 100.1
+M 704.05 63.65
+L 704.55 54.6 695.5 54 694.9 63.15 704.05 63.65 Z"/>
+</g>
+
+<g id="Layer2_7_FILL">
+<path fill="#5C6370" stroke="none" d="
+M 83.45 63.55
+L 87.95 55.7 80.1 51.1 75.5 59 83.45 63.55 Z"/>
+</g>
+
+<g id="Layer2_8_FILL">
+<path fill="#5C6370" stroke="none" d="
+M 59.9 100.1
+L 66.2 106.6 72.75 100.25 66.45 93.75 59.9 100.1 Z"/>
+</g>
+
+<g id="Layer2_9_FILL">
+<path fill="#5C6370" stroke="none" d="
+M 883.45 63.55
+L 887.95 55.7 880.1 51.1 875.5 59 883.45 63.55 Z"/>
+</g>
+
+<g id="Layer2_10_FILL">
+<path fill="#5C6370" stroke="none" d="
+M 859.9 100.1
+L 866.2 106.6 872.75 100.25 866.45 93.75 859.9 100.1 Z"/>
+</g>
+
+<path id="blade_0_Layer0_0_MEMBER_1_MEMBER_0_1_STROKES" stroke="#646E80" stroke-width="3.5" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" fill="none" d="
+M 15.25 15.4
+L 19.35 11.3 23.55 15.4 19.35 19.5 15.25 15.4 Z"/>
+</defs>
+
+<g transform="matrix( 0.2807769775390625, -0.9597625732421875, 0.9597625732421875, 0.2807769775390625, 349.45,80.35) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#blade_0_Layer0_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#blade_0_Layer0_0_MEMBER_1_MEMBER_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 0.9425201416015625, -0.334075927734375, 0.334075927734375, 0.9425201416015625, 197.55,51.2) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#blade_0_Layer0_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#blade_0_Layer0_0_MEMBER_1_MEMBER_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 61.9,39.25) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#blade_0_Layer0_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#blade_0_Layer0_0_MEMBER_1_MEMBER_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer2_3_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer2_4_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer2_5_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer2_6_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer2_7_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer2_8_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer2_9_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer2_10_FILL"/>
+</g>
+</svg>

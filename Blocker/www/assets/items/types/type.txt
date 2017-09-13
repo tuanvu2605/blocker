@@ -1,0 +1,7 @@
+
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/items/types/equip.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/items/types/upgrade.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/items/types/usable.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/items/types/tower.svg
+
+

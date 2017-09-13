@@ -1,0 +1,10 @@
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/items/box.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/items/campfire.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/items/claw.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/items/core.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/items/crystal.blue.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/items/crystal.green.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/items/crystal.yellow.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/items/magneto.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/items/potion.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/items/treasure.svg

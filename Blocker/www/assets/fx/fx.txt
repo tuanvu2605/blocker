@@ -1,0 +1,11 @@
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fx/bone.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fx/heart.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fx/light.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fx/quest.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fx/revive.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fx/shop.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fx/smoke.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fx/soul.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fx/stun.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fx/text.block.svg	
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fx/text.revive.svg

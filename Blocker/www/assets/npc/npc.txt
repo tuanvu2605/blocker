@@ -1,0 +1,6 @@
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/npc/body.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/npc/father.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/npc/female.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/npc/male.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/npc/princess.body.svg
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/npc/princess.svg

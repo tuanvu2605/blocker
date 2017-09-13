@@ -1,0 +1,56 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="80px" height="80px" viewBox="0 0 80 80">
+<defs>
+<g id="Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 100 41.95
+L 101 41.95 101 60 114 60 114 54.9 118 50.8 114 46.65 114 35.4 118 31.3 114 27.15 114 21 101 21 101 40 100 40 100 41.95 Z"/>
+</g>
+
+<g id="Layer0_1_FILL">
+<path fill="#333333" stroke="none" d="
+M 20 40
+L 20 41.95 21 41.95 21 40 20 40 Z"/>
+
+<path fill="#9096A3" stroke="none" d="
+M 34 21
+L 21 21 21 40 21 41.95 21 60 34 60 34 54.9 38 50.8 34 46.65 34 35.4 38 31.3 34 27.15 34 21 Z"/>
+</g>
+
+<g id="Layer0_1_MEMBER_0_FILL">
+<path fill="#333333" stroke="none" d="
+M 24.95 31.35
+L 24.95 29.4 23 29.4 23 33.3 26.9 33.3 26.9 31.35 24.95 31.35 Z"/>
+
+<path fill="#FFFFFF" stroke="none" d="
+M 26.9 29.4
+L 24.95 29.4 24.95 31.35 26.9 31.35 26.9 29.4 Z"/>
+</g>
+
+<g id="Layer0_1_MEMBER_1_FILL">
+<path fill="#333333" stroke="none" d="
+M 24.9 48.9
+L 23 48.9 23 52.85 26.85 52.85 26.85 50.85 24.9 50.85 24.9 48.9 Z"/>
+
+<path fill="#FFFFFF" stroke="none" d="
+M 26.85 48.9
+L 24.9 48.9 24.9 50.85 26.85 50.85 26.85 48.9 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_1_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_1_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_1_MEMBER_1_FILL"/>
+</g>
+</svg>

@@ -1,0 +1,8 @@
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fashion/none.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fashion/bunny.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fashion/piggy.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fashion/froggy.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fashion/skull.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fashion/batman.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fashion/dragonic.png
+http://gamedistribution.com/store_html5/df8c92ee1900430c951f24f0f6d536cf/assets/fashion/nyancat.png

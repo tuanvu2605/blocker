@@ -1,0 +1,48 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="40px" height="40px" viewBox="0 0 40 40">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="17.3" y1="17.35" x2="27.8" y2="27.85" spreadMethod="pad">
+<stop  offset="0%" stop-color="#000000" stop-opacity="0.25098039215686274"/>
+
+<stop  offset="90.58823529411765%" stop-color="#000000" stop-opacity="0"/>
+</linearGradient>
+
+<radialGradient id="Gradient_2" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="19" fx="0" fy="0" gradientTransform="matrix( 1, 0, 0, 1, 20.1,19.75) " spreadMethod="pad">
+<stop  offset="0%" stop-color="#D7720F"/>
+
+<stop  offset="51.372549019607845%" stop-color="#AA8957"/>
+
+<stop  offset="100%" stop-color="#BF9960"/>
+</radialGradient>
+
+<g id="Layer0_0_FILL">
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 30.4 4.95
+L 5.2 30.15 15.85 40.8 41.05 15.6 30.4 4.95 Z"/>
+</g>
+
+<g id="Layer0_1_FILL">
+<path fill="#727272" stroke="none" d="
+M 14.65 29.55
+L 20.05 34.95 25.45 29.5 20.1 24.15 14.65 29.55
+M 14.7 9.85
+L 20.1 15.25 25.4 9.9 20.05 4.55 14.7 9.85
+M 15.65 19.7
+L 10.25 14.3 4.85 19.75 10.2 25.1 15.65 19.7
+M 29.85 14.35
+L 24.55 19.7 29.9 25.05 35.25 19.75 29.85 14.35 Z"/>
+
+<path fill="url(#Gradient_2)" stroke="none" d="
+M 35.55 8.7
+L 31.1 4.25 25.4 9.9 20.1 15.25 14.7 9.85 9.1 4.25 4.65 8.7 10.25 14.3 15.65 19.7 10.2 25.1 4.6 30.75 9.05 35.2 14.65 29.55 20.1 24.15 25.45 29.5 31.15 35.2 35.6 30.75 29.9 25.05 24.55 19.7 29.85 14.35 35.55 8.7 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_1_FILL"/>
+</g>
+</svg>

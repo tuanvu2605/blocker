@@ -1,0 +1,54 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="80px" height="80px" viewBox="0 0 80 80">
+<defs>
+<g id="Layer0_0_FILL">
+<path fill="#C2B49C" stroke="none" d="
+M 34 21
+L 21 21 21 31.3 21 35.4 21 39.25 21 43.35 21 46.65 21 50.8 21 60 34 60 34 21
+M 23.95 35.4
+L 23.1 35.4 23.1 27.15 23.95 27.15 24.05 27.15 24.05 35.4 23.95 35.4
+M 23.95 46.65
+L 24.05 46.65 24.05 54.9 23.95 54.9 23.1 54.9 23.1 46.65 23.95 46.65 Z"/>
+
+<path fill="#5F5953" stroke="none" d="
+M 23.95 46.65
+L 23.1 46.65 23.1 54.9 23.95 54.9 23.95 46.65
+M 23.95 35.4
+L 23.95 27.15 23.1 27.15 23.1 35.4 23.95 35.4 Z"/>
+</g>
+
+<g id="Layer0_1_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 101 31.3
+L 101 35.4 101 39.25 101 43.35 101 46.65 101 50.8 101 60 114 60 114 21 101 21 101 31.3 Z"/>
+</g>
+
+<path id="Layer0_0_1_STROKES" stroke="#C2B49C" stroke-width="4" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="3" fill="none" d="
+M 21 46.65
+L 21 50.8
+M 21 39.25
+L 21 43.35
+M 21 31.3
+L 21 35.4"/>
+
+<path id="Layer0_1_1_STROKES" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="3" fill="none" d="
+M 101 31.3
+L 101 35.4
+M 101 39.25
+L 101 43.35
+M 101 46.65
+L 101 50.8"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_0_FILL"/>
+
+<use xlink:href="#Layer0_0_1_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_1_FILL"/>
+
+<use xlink:href="#Layer0_1_1_STROKES"/>
+</g>
+</svg>

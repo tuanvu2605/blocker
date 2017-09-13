@@ -1,0 +1,46 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="47px" height="13px" viewBox="0 0 47 13">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="1.6999999999999993" y1="15.4" x2="17.7" y2="15.4" spreadMethod="pad">
+<stop  offset="0%" stop-color="#878791"/>
+
+<stop  offset="100%" stop-color="#6F7179"/>
+</linearGradient>
+
+<linearGradient id="Gradient_2" gradientUnits="userSpaceOnUse" x1="37.25" y1="15.45" x2="21.25" y2="15.45" spreadMethod="pad">
+<stop  offset="0%" stop-color="#878791"/>
+
+<stop  offset="100%" stop-color="#6F7179"/>
+</linearGradient>
+
+<g id="blade_0_Layer0_0_MEMBER_0_FILL">
+<path fill="#878791" stroke="none" d="
+M 1.7 19.5
+L 17.65 11.35 -3.55 11.35 1.7 19.5
+M 37.25 11.35
+L 21.3 19.5 42.5 19.5 37.25 11.35 Z"/>
+
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 17.7 19.5
+L 17.65 11.35 1.7 19.5 17.7 19.5 Z"/>
+
+<path fill="url(#Gradient_2)" stroke="none" d="
+M 21.3 19.5
+L 37.25 11.35 21.25 11.35 21.3 19.5 Z"/>
+</g>
+
+<path id="blade_0_Layer0_0_MEMBER_1_MEMBER_0_1_STROKES" stroke="#646E80" stroke-width="3.5" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" fill="none" d="
+M 15.25 15.4
+L 19.35 11.3 23.55 15.4 19.35 19.5 15.25 15.4 Z"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 4.05,-8.9) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#blade_0_Layer0_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#blade_0_Layer0_0_MEMBER_1_MEMBER_0_1_STROKES"/>
+</g>
+</g>
+</svg>

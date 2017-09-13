@@ -1,0 +1,38 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="200px" height="20px" viewBox="0 0 200 20">
+<defs>
+<g id="Layer0_0_FILL">
+<path fill="#E5AB3C" stroke="none" d="
+M 100 20
+L 100 0 0 0 0 20 100 20 Z"/>
+
+<path fill="#5960B8" stroke="none" d="
+M 200 20
+L 200 0 100 0 100 20 200 20 Z"/>
+</g>
+
+<g id="Layer0_1_FILL">
+<path fill="#4A5193" stroke="none" d="
+M 157.8 9.95
+Q 157.8 7.05 155.7 4.9 153.65 2.8 150.65 2.8 147.65 2.8 145.6 4.9 144.95 5.55 144.6 6.25 145.8 5.2 147.5 5.2 149.55 5.2 150.95 6.55 152.4 8 152.4 9.95 152.4 12 150.95 13.35 149.55 14.8 147.5 14.8 145.85 14.8 144.6 13.75 145 14.45 145.6 15 147.65 17.15 150.65 17.15 153.65 17.15 155.7 15 157.8 12.95 157.8 9.95 Z"/>
+</g>
+
+<g id="Layer0_2_FILL">
+<path fill="#FFC65B" stroke="none" d="
+M 55.35 4.5
+L 51.7 4.5 49.75 1.95 47.75 4.5 44.25 4.5 44.25 8.25 41.75 10.2 44.25 12.2 44.25 15.55 47.7 15.55 49.65 18.1 51.65 15.55 55.35 15.55 55.35 12.25 57.85 10.3 55.35 8.3 55.35 4.5 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_1_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_2_FILL"/>
+</g>
+</svg>

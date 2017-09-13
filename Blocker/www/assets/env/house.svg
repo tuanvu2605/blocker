@@ -1,0 +1,196 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="160px" height="80px" viewBox="0 0 160 80">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="57.275000000000006" y1="21.525" x2="79.525" y2="43.775" spreadMethod="pad">
+<stop  offset="0%" stop-color="#000000" stop-opacity="0.2"/>
+
+<stop  offset="100%" stop-color="#000000" stop-opacity="0"/>
+</linearGradient>
+
+<linearGradient id="Gradient_2" gradientUnits="userSpaceOnUse" x1="120.85000000000001" y1="34.55" x2="142.25" y2="55.95" spreadMethod="pad">
+<stop  offset="0%" stop-color="#000000" stop-opacity="0.25098039215686274"/>
+
+<stop  offset="90.58823529411765%" stop-color="#000000" stop-opacity="0"/>
+</linearGradient>
+
+<g id="Layer0_0_FILL">
+<path fill="#C2674A" stroke="none" d="
+M 40.05 6.5
+L 40 6.5 40 8.3 40.05 8.3 40.05 19.05 40 19.05 40 20.85 40.05 20.85 40 61.95 40.05 61.95 40.05 80 80 80 80 0 40.05 0 40.05 6.5 Z"/>
+
+<path fill="#D7795A" stroke="none" d="
+M 40 8.3
+L 39.95 8.3 39.95 6.5 40 6.5 40 0 0 0 0 80 40 80 40 61.95 39.95 61.95 40 20.85 39.95 20.85 39.95 19.05 40 19.05 40 8.3 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_0_MEMBER_0_FILL">
+<path fill="#B4AD8F" stroke="none" d="
+M 68.35 32.3
+L 68.35 11 47 11 47 32.3 68.35 32.3
+M 63.35 15.8
+L 63.35 27.1 52.05 27.1 52.05 15.8 63.35 15.8 Z"/>
+
+<path fill="#545454" stroke="none" d="
+M 63.35 27.1
+L 63.35 15.8 52.05 15.8 52.05 27.1 63.35 27.1 Z"/>
+
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 68.35 11
+L 68.35 32.3 47 32.3 75.35 60.7 96.7 39.3 68.35 11 Z"/>
+</g>
+
+<g id="Layer0_1_FILL">
+<path fill="#4D75AD" stroke="none" d="
+M 133.15 26.85
+L 120.1 39.85 133.15 52.9 133.15 26.85
+M 147.5 12.5
+L 133.15 26.85 133.15 52.9 148.45 68.2 148.45 12.05 148.45 68.2 160 79.75 160 0 147.5 12.5 147.95 12.5 147.5 12.5 Z"/>
+
+<path fill="#476B9C" stroke="none" d="
+M 148.45 68.2
+L 148.45 68.45 160 80 160 79.75 148.45 68.2
+M 148.45 68.45
+L 148.45 68.2 133.15 52.9 133.15 53.15 148.45 68.45
+M 120 39.95
+L 120 40 133.15 53.15 133.15 52.9 120.1 39.85 120 39.95 Z"/>
+
+<path fill="#547FBB" stroke="none" d="
+M 148.45 68.5
+L 148.45 68.45 133.15 53.15 106.85 53.15 80 80 160 80 148.45 68.45 148.45 68.5 92.05 68.5 148.45 68.5
+M 120 62.25
+L 120 61.95 120.05 61.95 120 62.25
+M 120 40
+L 120 40 119.95 40 106.85 53.15 133.15 53.15 120 40 Z"/>
+
+<path fill="#6391D0" stroke="none" d="
+M 119.95 40
+L 119.95 39.95 106.85 26.85 106.85 53.15 119.95 40
+M 92.05 12.5
+L 92.5 12.5 92.05 12.05 92.05 12.5
+M 92.5 12.5
+L 92.05 12.5 92.05 12.05 80 0 80 80 106.85 53.15 106.85 26.85 92.5 12.5
+M 91.5 12.5
+L 91.5 67.95 91.5 12.5 Z"/>
+
+<path fill="#598BD0" stroke="none" d="
+M 119.95 39.95
+L 120 40 120 39.95 120.1 39.85 133.15 26.85 106.85 26.85 119.95 39.95
+M 147.5 12.5
+L 160 0 80 0 92.05 12.05 92.5 12.5 147.5 12.5
+M 133.15 26.85
+L 147.5 12.5 92.5 12.5 106.85 26.85 133.15 26.85 Z"/>
+</g>
+
+<g id="Layer0_1_MEMBER_0_MEMBER_0_FILL">
+<path fill="url(#Gradient_2)" stroke="none" d="
+M 135.5 62.25
+L 146.5 51.15 127.3 31.9 116.25 43 135.5 62.25 Z"/>
+</g>
+
+<g id="Layer0_1_MEMBER_0_MEMBER_1_FILL">
+<path fill="#809AA6" stroke="none" d="
+M 124.1 31.9
+L 124.1 28 116.2 28 116.2 31.9 107.9 31.9 107.9 36.15 116.2 36.15 116.2 43 124.1 43 124.1 36.15 131.9 36.15 131.9 31.9 124.1 31.9 Z"/>
+
+<path fill="#A9BECB" stroke="none" d="
+M 124.1 27.95
+L 124.1 24 116.2 24 116.2 27.95 107.9 27.95 107.9 31.9 116.2 31.9 116.2 28 124.1 28 124.1 31.9 131.9 31.9 131.9 27.95 124.1 27.95 Z"/>
+</g>
+
+<path id="Layer0_0_MEMBER_0_1_STROKES" stroke="#AF593B" stroke-width="1" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="3" fill="none" d="
+M 63.5 11
+L 80 11
+M 74.5 46
+L 80 46
+M 68 65
+L 80 65
+M 40.25 55
+L 52.5 55"/>
+
+<path id="Layer0_0_MEMBER_0_2_STROKES" stroke="#C26645" stroke-width="1" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="3" fill="none" d="
+M 27 14
+L 40.3 14
+M 6.5 7.5
+L 0 7.5
+M 35 35
+L 40.275 35
+M 26.5 65
+L 40.3 65
+M 0 73.5
+L 10.5 73.5
+M 3 50.5
+L 0 50.5"/>
+
+<path id="Layer0_1_1_STROKES" stroke="#547FBB" stroke-width="1" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" fill="none" d="
+M 147.5 12.5
+L 92.5 12.5
+M 106.85 26.85
+L 133.15 26.85
+M 92.5 12.5
+L 92.05 12.5
+M 147.95 12.5
+L 147.5 12.5"/>
+
+<path id="Layer0_1_2_STROKES" stroke="#5587CB" stroke-width="1" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" fill="none" d="
+M 92.05 12.05
+L 92.05 12.5
+M 106.85 53.15
+L 106.85 26.85
+M 91.5 12.5
+L 91.5 67.95"/>
+
+<path id="Layer0_1_3_STROKES" stroke="#527BB4" stroke-width="1" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" fill="none" d="
+M 133.15 52.9
+L 133.15 53.15"/>
+
+<path id="Layer0_1_4_STROKES" stroke="#486C9E" stroke-width="1" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" fill="none" d="
+M 133.15 26.85
+L 133.15 52.9
+M 148.45 68.2
+L 148.45 12.05
+M 148.45 68.5
+L 148.45 68.45 148.45 68.2"/>
+
+<path id="Layer0_1_5_STROKES" stroke="#4D75AD" stroke-width="1" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3" fill="none" d="
+M 133.15 53.15
+L 106.85 53.15
+M 92.05 68.5
+L 148.45 68.5"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_0_MEMBER_0_1_STROKES"/>
+
+<use xlink:href="#Layer0_0_MEMBER_0_2_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_0_MEMBER_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_1_FILL"/>
+
+<use xlink:href="#Layer0_1_1_STROKES"/>
+
+<use xlink:href="#Layer0_1_2_STROKES"/>
+
+<use xlink:href="#Layer0_1_3_STROKES"/>
+
+<use xlink:href="#Layer0_1_4_STROKES"/>
+
+<use xlink:href="#Layer0_1_5_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_1_MEMBER_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_1_MEMBER_0_MEMBER_1_FILL"/>
+</g>
+</svg>
